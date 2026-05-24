@@ -18,7 +18,7 @@ backwards-incompatible way; consumers should pin themselves to a known version.
 ## Consuming the catalog
 
 ```bash
-curl https://raw.githubusercontent.com/sb0210/tinytools-catalog/main/apps.json
+curl https://raw.githubusercontent.com/siddharthbulia/tinytools-catalog/main/apps.json
 ```
 
 For lower latency, mirror via a Cloudflare Worker or proxy your own.
