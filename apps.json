@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-24T14:52:55.969Z",
+  "generatedAt": "2026-05-24T14:53:42.362Z",
   "generator": "app-factory/scripts/update-catalog.js",
   "apps": [
     {
@@ -23,8 +23,8 @@
       "downloads": {
         "arm64": "https://github.com/siddharthbulia/tinytools-brewup/releases/download/v2.0.0/Brewup-2.0.0-arm64.dmg?utm_source=tinytools",
         "x64": "https://github.com/siddharthbulia/tinytools-brewup/releases/download/v2.0.0/Brewup-2.0.0-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": null,
-        "x64SizeBytes": null
+        "arm64SizeBytes": 307695,
+        "x64SizeBytes": 307677
       },
       "repoUrl": "https://github.com/siddharthbulia/tinytools-brewup",
       "status": "live · 2.0.0 · free + pro",
@@ -52,8 +52,8 @@
       "downloads": {
         "arm64": "https://github.com/siddharthbulia/tinytools-devtoybox/releases/download/v2.0.0/Devtoybox-2.0.0-arm64.dmg?utm_source=tinytools",
         "x64": "https://github.com/siddharthbulia/tinytools-devtoybox/releases/download/v2.0.0/Devtoybox-2.0.0-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": null,
-        "x64SizeBytes": null
+        "arm64SizeBytes": 307799,
+        "x64SizeBytes": 307749
       },
       "repoUrl": "https://github.com/siddharthbulia/tinytools-devtoybox",
       "status": "live · 2.0.0 · free + pro",
@@ -81,8 +81,8 @@
       "downloads": {
         "arm64": "https://github.com/siddharthbulia/tinytools-diskhog/releases/download/v2.0.1/Diskhog-2.0.1-arm64.dmg?utm_source=tinytools",
         "x64": "https://github.com/siddharthbulia/tinytools-diskhog/releases/download/v2.0.1/Diskhog-2.0.1-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": null,
-        "x64SizeBytes": null
+        "arm64SizeBytes": 307725,
+        "x64SizeBytes": 307731
       },
       "repoUrl": "https://github.com/siddharthbulia/tinytools-diskhog",
       "status": "live · 2.0.1 · free + pro",
@@ -110,8 +110,8 @@
       "downloads": {
         "arm64": "https://github.com/siddharthbulia/tinytools-netping/releases/download/v2.0.0/Netping-2.0.0-arm64.dmg?utm_source=tinytools",
         "x64": "https://github.com/siddharthbulia/tinytools-netping/releases/download/v2.0.0/Netping-2.0.0-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": null,
-        "x64SizeBytes": null
+        "arm64SizeBytes": 307725,
+        "x64SizeBytes": 307705
       },
       "repoUrl": "https://github.com/siddharthbulia/tinytools-netping",
       "status": "live · 2.0.0 · free + pro",
@@ -139,8 +139,8 @@
       "downloads": {
         "arm64": "https://github.com/siddharthbulia/tinytools-unsaved/releases/download/v2.0.0/Unsaved-2.0.0-arm64.dmg?utm_source=tinytools",
         "x64": "https://github.com/siddharthbulia/tinytools-unsaved/releases/download/v2.0.0/Unsaved-2.0.0-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": null,
-        "x64SizeBytes": null
+        "arm64SizeBytes": 307751,
+        "x64SizeBytes": 307695
       },
       "repoUrl": "https://github.com/siddharthbulia/tinytools-unsaved",
       "status": "live · 2.0.0 · free + pro",
@@ -168,8 +168,8 @@
       "downloads": {
         "arm64": "https://github.com/siddharthbulia/tinytools-whoami/releases/download/v2.0.0/Whoami-2.0.0-arm64.dmg?utm_source=tinytools",
         "x64": "https://github.com/siddharthbulia/tinytools-whoami/releases/download/v2.0.0/Whoami-2.0.0-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": null,
-        "x64SizeBytes": null
+        "arm64SizeBytes": 307695,
+        "x64SizeBytes": 307677
       },
       "repoUrl": "https://github.com/siddharthbulia/tinytools-whoami",
       "status": "live · 2.0.0 · free + pro",
@@ -197,39 +197,10 @@
       "downloads": {
         "arm64": "https://github.com/siddharthbulia/tinytools-clipstack/releases/download/v0.1.0/ClipStack-0.1.0-arm64.dmg?utm_source=tinytools",
         "x64": "https://github.com/siddharthbulia/tinytools-clipstack/releases/download/v0.1.0/ClipStack-0.1.0-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": null,
-        "x64SizeBytes": null
+        "arm64SizeBytes": 307767,
+        "x64SizeBytes": 307749
       },
       "repoUrl": "https://github.com/siddharthbulia/tinytools-clipstack",
-      "status": "live",
-      "category": "developer-tools",
-      "minMacOSVersion": "11.0",
-      "tags": []
-    },
-    {
-      "slug": "dropshare",
-      "name": "Dropshare",
-      "appId": "app.dropshare.macos",
-      "version": null,
-      "tagline": "Drag any file onto the menu bar, get a public link in your clipboard.",
-      "description": "Drag any file onto the menu bar, get a public link in your clipboard.",
-      "websiteUrl": "https://dropshare-omega.vercel.app",
-      "iconHint": "🧰",
-      "iconGradient": [
-        "#5b8def",
-        "#3253c7"
-      ],
-      "accentColor": "#5b8def",
-      "tier": "free",
-      "priceUSD": 0,
-      "buyUrl": null,
-      "downloads": {
-        "arm64": null,
-        "x64": null,
-        "arm64SizeBytes": null,
-        "x64SizeBytes": null
-      },
-      "repoUrl": null,
       "status": "live",
       "category": "developer-tools",
       "minMacOSVersion": "11.0",
@@ -255,8 +226,8 @@
       "downloads": {
         "arm64": "https://github.com/siddharthbulia/tinytools-pgview/releases/download/v1.2.5/pgview-1.2.5-arm64.dmg?utm_source=tinytools",
         "x64": "https://github.com/siddharthbulia/tinytools-pgview/releases/download/v1.2.5/pgview-1.2.5-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": null,
-        "x64SizeBytes": null
+        "arm64SizeBytes": 307701,
+        "x64SizeBytes": 307671
       },
       "repoUrl": "https://github.com/siddharthbulia/tinytools-pgview",
       "status": "live",
@@ -284,40 +255,11 @@
       "downloads": {
         "arm64": "https://github.com/siddharthbulia/tinytools-port-explorer/releases/download/v1.0.0/Port%20Explorer-1.0.0-arm64.dmg?utm_source=tinytools",
         "x64": "https://github.com/siddharthbulia/tinytools-port-explorer/releases/download/v1.0.0/Port%20Explorer-1.0.0-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": null,
-        "x64SizeBytes": null
+        "arm64SizeBytes": 307901,
+        "x64SizeBytes": 307877
       },
       "repoUrl": "https://github.com/siddharthbulia/tinytools-port-explorer",
       "status": "live",
-      "category": "developer-tools",
-      "minMacOSVersion": "11.0",
-      "tags": []
-    },
-    {
-      "slug": "tinytools",
-      "name": "Tinytools",
-      "appId": "app.tinytools.macos",
-      "version": null,
-      "tagline": "Cross-discovery hub: every Mac app I've shipped, rendered from a public GitHub catalog (apps.json).",
-      "description": "Cross-discovery hub: every Mac app I've shipped, rendered from a public GitHub catalog (apps.json).",
-      "websiteUrl": "https://tinytools-plum.vercel.app",
-      "iconHint": "🧰",
-      "iconGradient": [
-        "#5b8def",
-        "#3253c7"
-      ],
-      "accentColor": "#5b8def",
-      "tier": "free",
-      "priceUSD": 0,
-      "buyUrl": null,
-      "downloads": {
-        "arm64": null,
-        "x64": null,
-        "arm64SizeBytes": null,
-        "x64SizeBytes": null
-      },
-      "repoUrl": null,
-      "status": "live · landing-page",
       "category": "developer-tools",
       "minMacOSVersion": "11.0",
       "tags": []
