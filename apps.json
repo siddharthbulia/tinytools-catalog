@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "generatedAt": "2026-05-24T14:14:49.963Z",
+  "generatedAt": "2026-05-24T14:52:55.969Z",
   "generator": "app-factory/scripts/update-catalog.js",
   "apps": [
     {
       "slug": "brewup",
       "name": "Brewup",
-      "appId": "com.sidbulia.brewup",
+      "appId": "ai.bulia.tinytools.brewup",
       "version": "2.0.0",
       "tagline": "See what brew upgrade is about to do.",
       "description": "See what 'brew upgrade' is about to do. Free + Pro adds dep-impact preview, batch, scheduling.",
@@ -21,11 +21,12 @@
       "priceUSD": 9,
       "buyUrl": "https://buy.stripe.com/brewup-placeholder",
       "downloads": {
-        "arm64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/brewup-2.0.0-arm64.dmg?utm_source=tinytools",
-        "x64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/brewup-2.0.0-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": 102048343,
-        "x64SizeBytes": 109186735
+        "arm64": "https://github.com/siddharthbulia/tinytools-brewup/releases/download/v2.0.0/Brewup-2.0.0-arm64.dmg?utm_source=tinytools",
+        "x64": "https://github.com/siddharthbulia/tinytools-brewup/releases/download/v2.0.0/Brewup-2.0.0-x64.dmg?utm_source=tinytools",
+        "arm64SizeBytes": null,
+        "x64SizeBytes": null
       },
+      "repoUrl": "https://github.com/siddharthbulia/tinytools-brewup",
       "status": "live · 2.0.0 · free + pro",
       "category": "developer-tools",
       "minMacOSVersion": "11.0",
@@ -34,7 +35,7 @@
     {
       "slug": "devtoybox",
       "name": "Devtoybox",
-      "appId": "com.sidbulia.devtoybox",
+      "appId": "ai.bulia.tinytools.devtoybox",
       "version": "2.0.0",
       "tagline": "Paste anything. We know what it is. We remember it forever. Nothing leaves your Mac.",
       "description": "Keyboard-driven scratchpad. Auto-detect, live transforms, history forever, local-only.",
@@ -49,11 +50,12 @@
       "priceUSD": 12,
       "buyUrl": "https://buy.stripe.com/devtoybox-placeholder",
       "downloads": {
-        "arm64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/devtoybox-2.0.0-arm64.dmg?utm_source=tinytools",
-        "x64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/devtoybox-2.0.0-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": 102083698,
-        "x64SizeBytes": 109253505
+        "arm64": "https://github.com/siddharthbulia/tinytools-devtoybox/releases/download/v2.0.0/Devtoybox-2.0.0-arm64.dmg?utm_source=tinytools",
+        "x64": "https://github.com/siddharthbulia/tinytools-devtoybox/releases/download/v2.0.0/Devtoybox-2.0.0-x64.dmg?utm_source=tinytools",
+        "arm64SizeBytes": null,
+        "x64SizeBytes": null
       },
+      "repoUrl": "https://github.com/siddharthbulia/tinytools-devtoybox",
       "status": "live · 2.0.0 · free + pro",
       "category": "developer-tools",
       "minMacOSVersion": "11.0",
@@ -62,7 +64,7 @@
     {
       "slug": "diskhog",
       "name": "Diskhog",
-      "appId": "com.sidbulia.diskhog",
+      "appId": "ai.bulia.tinytools.diskhog",
       "version": "2.0.1",
       "tagline": "The disk cleaner that knows what a node_modules is.",
       "description": "Developer-aware disk reclamation: drill-down + Pro recipes for node_modules, Docker, DerivedData.",
@@ -77,11 +79,12 @@
       "priceUSD": 9,
       "buyUrl": "https://buy.stripe.com/diskhog-placeholder",
       "downloads": {
-        "arm64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/diskhog-2.0.1-arm64.dmg?utm_source=tinytools",
-        "x64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/diskhog-2.0.1-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": 97670150,
-        "x64SizeBytes": 104811721
+        "arm64": "https://github.com/siddharthbulia/tinytools-diskhog/releases/download/v2.0.1/Diskhog-2.0.1-arm64.dmg?utm_source=tinytools",
+        "x64": "https://github.com/siddharthbulia/tinytools-diskhog/releases/download/v2.0.1/Diskhog-2.0.1-x64.dmg?utm_source=tinytools",
+        "arm64SizeBytes": null,
+        "x64SizeBytes": null
       },
+      "repoUrl": "https://github.com/siddharthbulia/tinytools-diskhog",
       "status": "live · 2.0.1 · free + pro",
       "category": "developer-tools",
       "minMacOSVersion": "11.0",
@@ -90,7 +93,7 @@
     {
       "slug": "netping",
       "name": "Netping",
-      "appId": "com.sidbulia.netping",
+      "appId": "ai.bulia.tinytools.netping",
       "version": "2.0.0",
       "tagline": "The receipts your ISP can't deny.",
       "description": "Multi-target connectivity monitor + outage receipts. Pro adds TCP/HTTP probes + CSV export.",
@@ -105,11 +108,12 @@
       "priceUSD": 9,
       "buyUrl": "https://buy.stripe.com/netping-placeholder",
       "downloads": {
-        "arm64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/netping-2.0.0-arm64.dmg?utm_source=tinytools",
-        "x64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/netping-2.0.0-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": 102057905,
-        "x64SizeBytes": 109197429
+        "arm64": "https://github.com/siddharthbulia/tinytools-netping/releases/download/v2.0.0/Netping-2.0.0-arm64.dmg?utm_source=tinytools",
+        "x64": "https://github.com/siddharthbulia/tinytools-netping/releases/download/v2.0.0/Netping-2.0.0-x64.dmg?utm_source=tinytools",
+        "arm64SizeBytes": null,
+        "x64SizeBytes": null
       },
+      "repoUrl": "https://github.com/siddharthbulia/tinytools-netping",
       "status": "live · 2.0.0 · free + pro",
       "category": "developer-tools",
       "minMacOSVersion": "11.0",
@@ -118,7 +122,7 @@
     {
       "slug": "unsaved",
       "name": "Unsaved",
-      "appId": "com.sidbulia.unsaved",
+      "appId": "ai.bulia.tinytools.unsaved",
       "version": "2.0.0",
       "tagline": "Stop losing Friday's commits.",
       "description": "Scans your repos and shows the ones with uncommitted or unpushed work — so you never forget to push again.",
@@ -133,11 +137,12 @@
       "priceUSD": 12,
       "buyUrl": "https://buy.stripe.com/unsaved-placeholder",
       "downloads": {
-        "arm64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/unsaved-2.0.0-arm64.dmg?utm_source=tinytools",
-        "x64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/unsaved-2.0.0-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": 97700872,
-        "x64SizeBytes": 104840124
+        "arm64": "https://github.com/siddharthbulia/tinytools-unsaved/releases/download/v2.0.0/Unsaved-2.0.0-arm64.dmg?utm_source=tinytools",
+        "x64": "https://github.com/siddharthbulia/tinytools-unsaved/releases/download/v2.0.0/Unsaved-2.0.0-x64.dmg?utm_source=tinytools",
+        "arm64SizeBytes": null,
+        "x64SizeBytes": null
       },
+      "repoUrl": "https://github.com/siddharthbulia/tinytools-unsaved",
       "status": "live · 2.0.0 · free + pro",
       "category": "developer-tools",
       "minMacOSVersion": "11.0",
@@ -146,7 +151,7 @@
     {
       "slug": "whoami",
       "name": "Whoami",
-      "appId": "com.sidbulia.whoami",
+      "appId": "ai.bulia.tinytools.whoami",
       "version": "2.0.0",
       "tagline": "Know when your network changes — before you notice it broke.",
       "description": "Network diagnostic + change notifications + Pro: evil-twin Wi-Fi detection.",
@@ -161,11 +166,12 @@
       "priceUSD": 9,
       "buyUrl": "https://buy.stripe.com/whoami-placeholder",
       "downloads": {
-        "arm64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/whoami-2.0.0-arm64.dmg?utm_source=tinytools",
-        "x64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/whoami-2.0.0-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": 108469077,
-        "x64SizeBytes": 115614786
+        "arm64": "https://github.com/siddharthbulia/tinytools-whoami/releases/download/v2.0.0/Whoami-2.0.0-arm64.dmg?utm_source=tinytools",
+        "x64": "https://github.com/siddharthbulia/tinytools-whoami/releases/download/v2.0.0/Whoami-2.0.0-x64.dmg?utm_source=tinytools",
+        "arm64SizeBytes": null,
+        "x64SizeBytes": null
       },
+      "repoUrl": "https://github.com/siddharthbulia/tinytools-whoami",
       "status": "live · 2.0.0 · free + pro",
       "category": "developer-tools",
       "minMacOSVersion": "11.0",
@@ -174,7 +180,7 @@
     {
       "slug": "clipstack",
       "name": "ClipStack",
-      "appId": "com.siddharth.clipstack",
+      "appId": "ai.bulia.tinytools.clipstack",
       "version": "0.1.0",
       "tagline": "Local-first clipboard history with ⌘⇧V recall and full-text search.",
       "description": "Local-first clipboard history with ⌘⇧V recall and full-text search.",
@@ -189,11 +195,12 @@
       "priceUSD": 0,
       "buyUrl": null,
       "downloads": {
-        "arm64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/ClipStack-0.1.0-arm64.dmg?utm_source=tinytools",
-        "x64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/ClipStack-0.1.0-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": 112986194,
+        "arm64": "https://github.com/siddharthbulia/tinytools-clipstack/releases/download/v0.1.0/ClipStack-0.1.0-arm64.dmg?utm_source=tinytools",
+        "x64": "https://github.com/siddharthbulia/tinytools-clipstack/releases/download/v0.1.0/ClipStack-0.1.0-x64.dmg?utm_source=tinytools",
+        "arm64SizeBytes": null,
         "x64SizeBytes": null
       },
+      "repoUrl": "https://github.com/siddharthbulia/tinytools-clipstack",
       "status": "live",
       "category": "developer-tools",
       "minMacOSVersion": "11.0",
@@ -217,11 +224,12 @@
       "priceUSD": 0,
       "buyUrl": null,
       "downloads": {
-        "arm64": "https://dropshare-omega.vercel.app/downloads/Dropshare-0.1.0.dmg?utm_source=tinytools",
-        "x64": "https://dropshare-omega.vercel.app/downloads/Dropshare-0.1.0.dmg?utm_source=tinytools",
-        "arm64SizeBytes": 540140,
-        "x64SizeBytes": 540140
+        "arm64": null,
+        "x64": null,
+        "arm64SizeBytes": null,
+        "x64SizeBytes": null
       },
+      "repoUrl": null,
       "status": "live",
       "category": "developer-tools",
       "minMacOSVersion": "11.0",
@@ -230,7 +238,7 @@
     {
       "slug": "pgview",
       "name": "pgview",
-      "appId": "ai.getmili.postgres_db_explorer",
+      "appId": "ai.bulia.tinytools.pgview",
       "version": "1.2.5",
       "tagline": "TablePlus-class Postgres explorer for macOS.",
       "description": "TablePlus-class Postgres explorer for macOS.",
@@ -245,11 +253,12 @@
       "priceUSD": 0,
       "buyUrl": null,
       "downloads": {
-        "arm64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/pgview-1.2.5-arm64.dmg?utm_source=tinytools",
-        "x64": "https://mili-production-assets.s3.us-east-1.amazonaws.com/mac/pgview-1.2.5-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": 122203314,
-        "x64SizeBytes": 129363763
+        "arm64": "https://github.com/siddharthbulia/tinytools-pgview/releases/download/v1.2.5/pgview-1.2.5-arm64.dmg?utm_source=tinytools",
+        "x64": "https://github.com/siddharthbulia/tinytools-pgview/releases/download/v1.2.5/pgview-1.2.5-x64.dmg?utm_source=tinytools",
+        "arm64SizeBytes": null,
+        "x64SizeBytes": null
       },
+      "repoUrl": "https://github.com/siddharthbulia/tinytools-pgview",
       "status": "live",
       "category": "developer-tools",
       "minMacOSVersion": "11.0",
@@ -258,7 +267,7 @@
     {
       "slug": "port-explorer",
       "name": "Port Explorer",
-      "appId": "com.sidbulia.portexplorer",
+      "appId": "ai.bulia.tinytools.portexplorer",
       "version": "1.0.0",
       "tagline": "See and kill processes on any port",
       "description": "See and kill processes on any port",
@@ -273,12 +282,42 @@
       "priceUSD": 0,
       "buyUrl": null,
       "downloads": {
-        "arm64": "https://port-explorer-seven.vercel.app/downloads/PortExplorer-arm64.dmg?utm_source=tinytools",
-        "x64": "https://port-explorer-seven.vercel.app/downloads/PortExplorer-x64.dmg?utm_source=tinytools",
-        "arm64SizeBytes": 97659644,
-        "x64SizeBytes": 104785262
+        "arm64": "https://github.com/siddharthbulia/tinytools-port-explorer/releases/download/v1.0.0/Port%20Explorer-1.0.0-arm64.dmg?utm_source=tinytools",
+        "x64": "https://github.com/siddharthbulia/tinytools-port-explorer/releases/download/v1.0.0/Port%20Explorer-1.0.0-x64.dmg?utm_source=tinytools",
+        "arm64SizeBytes": null,
+        "x64SizeBytes": null
       },
+      "repoUrl": "https://github.com/siddharthbulia/tinytools-port-explorer",
       "status": "live",
+      "category": "developer-tools",
+      "minMacOSVersion": "11.0",
+      "tags": []
+    },
+    {
+      "slug": "tinytools",
+      "name": "Tinytools",
+      "appId": "app.tinytools.macos",
+      "version": null,
+      "tagline": "Cross-discovery hub: every Mac app I've shipped, rendered from a public GitHub catalog (apps.json).",
+      "description": "Cross-discovery hub: every Mac app I've shipped, rendered from a public GitHub catalog (apps.json).",
+      "websiteUrl": "https://tinytools-plum.vercel.app",
+      "iconHint": "🧰",
+      "iconGradient": [
+        "#5b8def",
+        "#3253c7"
+      ],
+      "accentColor": "#5b8def",
+      "tier": "free",
+      "priceUSD": 0,
+      "buyUrl": null,
+      "downloads": {
+        "arm64": null,
+        "x64": null,
+        "arm64SizeBytes": null,
+        "x64SizeBytes": null
+      },
+      "repoUrl": null,
+      "status": "live · landing-page",
       "category": "developer-tools",
       "minMacOSVersion": "11.0",
       "tags": []
